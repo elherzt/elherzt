@@ -69,7 +69,7 @@ Pure **.NET Core Web API**, designed as a starting point for shared data and ide
 ## 📫 Contact
 
 I'm open to collaboration, feedback, and new opportunities.  
-Let’s build something great — check out my repos or connect with me!
+Let’s build something great — check out my repos or connect with me! [LinkedIn](https://www.linkedin.com/in/elherzt)
 
 > **Note:**  
 > My GitHub repositories appear sparse because I have over 10 years of professional experience working with private repositories on GitLab.  
