@@ -41,6 +41,10 @@ I'm a software developer with 11+ years of experience building applications usin
 
 These are active portfolio projects I'm developing in my free time. They are open-source, dockerized, and designed to demonstrate real-world architecture and best practices.
 
+### 🔐 InSigna Authentication
+Lightweight authentication library for .NET 8 backends. Handles password hashing, JWT generation, and centralized response handling with standardized error types. Built for minimal setup, clear onboarding, and reusable architecture.
+
+Go to [InSigna Authentication Repository](https://github.com/elherzt/InSigna).
 
 ### 🗳️ Invox Surveys  
 **Face-to-face survey platform** for internal research and fieldwork. Includes user roles, progress tracking, and automatic finalization of surveys.  
