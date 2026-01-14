@@ -41,6 +41,17 @@ I'm a software developer with 11+ years of experience building applications usin
 
 These are active portfolio projects I'm developing in my free time. They are open-source, dockerized, and designed to demonstrate real-world architecture and best practices.
 
+### 🧠 Inverum Hub  
+A minimal Identity **Single Source of Truth (SSoT)** service to support microservice or service-oriented architectures.  
+Pure **.NET Core Web API**, designed as a starting point for shared data and identity across systems.
+Go to [InVerum Hub Repository](https://github.com/elherzt/InverumHub)
+
+### 👀 InWatch Monitor
+InWatch Monitor is a lightweight and modular service designed to track the status and availability of all your company’s websites, APIs, and servers from a single place.
+Built with Node JS and React, using Cloudflare Workers
+
+Go to [InWhatch Monitor](https://github.com/elherzt/InWatch-Monitor)
+
 ### 🔐 InSigna Authentication
 Lightweight authentication library for .NET 8 backends. Handles password hashing, JWT generation, and centralized response handling with standardized error types. Built for minimal setup, clear onboarding, and reusable architecture.
 
@@ -56,9 +67,7 @@ Go to [Invox Surveys Repository](https://github.com/elherzt/InvoxSurvey).
 A **training content platform** built with fullstack **ASP.NET Core MVC**. Admins can upload PDFs and videos, and logged-in users can view content and track usage reports.  
 Ideal for internal company training or onboarding.
 
-### 🧠 Inverum Hub  
-A minimal **Single Source of Truth (SSoT)** service to support microservice or service-oriented architectures.  
-Pure **.NET Core Web API**, designed as a starting point for shared data and identity across systems.
+
 
 ---
 
