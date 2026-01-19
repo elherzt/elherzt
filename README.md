@@ -62,7 +62,6 @@ Go to [InSigna Authentication Repository](https://github.com/elherzt/InSigna).
 **Face-to-face survey platform** for internal research and fieldwork. Includes user roles, progress tracking, and automatic finalization of surveys.  
 Built with **ASP.NET Core** and **React Native**.
 
-Go to [Invox Surveys Repository](https://github.com/elherzt/InvoxSurvey).
 
 ### 📚 Invia Learn  
 A **training content platform** built with fullstack **ASP.NET Core MVC**. Admins can upload PDFs and videos, and logged-in users can view content and track usage reports.  
